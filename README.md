@@ -1,5 +1,5 @@
 <h2>Hi 👋, I'm L0ki<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
-<p>An engineerworking on Tencent based in  🏙 Shenzhen. I work in the field of cyber security, and trying to become a product manager.</p><img align="right" src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" />
+<p>An engineerworking on Tencent based in  🏙 Shenzhen. I work in the field of cyber security, and trying to become a product manager.</p><img align="right" src="https://media.giphy.com/media/AbYxDs20DECQw/giphy.gif" />
 
 
 
