@@ -1,5 +1,5 @@
 <h2>Hi 👋, I'm L0ki<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
-<p>An engineerworking on Tencent based in  🏙 Shenzhen. I work in the field of cyber security, and trying to become a product manager.</p><img align="right" src="https://media.giphy.com/media/AbYxDs20DECQw/giphy.gif" />
+<p>An engineerworking on Tencent based in  🏙 Shenzhen. I work in the field of cyber security, and trying to become a product manager.</p><img align="right" src="https://media.giphy.com/media/Kx8XaNAnI4Okw/giphy.gif" />
 
 
 
@@ -18,7 +18,7 @@
     <summary>What we need</summary>
     <li>UI designer</li><li>Android development engineer</li><li>IOS development engineer</li><li>Product Manager</li><li>geminifuture@163.com</li>
 </details>
-<img src="https://media.giphy.com/media/Kx8XaNAnI4Okw/giphy.gif">
+<img src="https://media.giphy.com/media/AbYxDs20DECQw/giphy.gif">
 <p><a target="_blank" href="https://l0ki.top/about.html">Read More</a></p>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
