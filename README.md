@@ -16,7 +16,7 @@
 <h2>✒️ Contact Me</h2>
 <details>
     <summary>What we need</summary>
-    <li>UI designer</li><li>Android development engineer</li><li>IOS development engineer</li><li>Product Manager</li><li>geminifuture@163.com</li>
+    <li>UI designer</li><li>Android development engineer</li><li>IOS development engineer</li><li>Product Manager</li><li>hr@geminifuture.com</li>
 </details>
 <p><a target="_blank" href="https://l0ki.top/about.html">Read More</a></p>
 <h2>🚀 Some Tools I Use</h2>
