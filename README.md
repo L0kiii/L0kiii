@@ -6,6 +6,7 @@
 <ul>
 <li>The Father of FuckIngCoin
 <li>💬 Ping me about <strong>interview, security, blockchain</strong>.</li>
+</ul>
 <h2>✒️ Contact Me</h2>
 <details>
     <summary>What we need</summary>
