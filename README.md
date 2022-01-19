@@ -10,7 +10,7 @@
 <h2>✒️ Contact Me</h2>
 <details>
     <summary>What we need</summary>
-    <li>UI designer</li><li>Android development engineer</li><li>IOS development engineer</li><li>Product Manager</li><li>fucckingcoin@gmail.com</li>
+    <li>UI designer</li><li>Web Dev</li><li>web3l0ki@yahoo.com</li>
 </details>
 <p><a target="_blank" href="https://l0ki.top/about.html">Read More</a></p>
 <h2>🚀 Some Tools I Use</h2>
