@@ -1,17 +1,17 @@
 <h2>Hi 👋, I'm L0ki<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
-<p> I work in the field of cyber security .</p>
+<p> I work in the field of gamefi & cyber security .</p>
 
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>💬 Ping me about <strong>interview, security, blockchain</strong>.</li>
+<li>💬 Ping me about <strong>gamefi, security, blockchain</strong>.</li>
 </ul>
 <h2>✒️ Contact Me</h2>
 <details>
     <summary>What we need</summary>
     <li>UI designer</li><li>Web Dev</li><li>web3l0ki@yahoo.com</li>
 </details>
-<p><a target="_blank" href="https://l0ki.top/about.html">Read More</a></p>
+<p><a target="_blank" href="https://l0ki.net/about">Read More</a></p>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25" />
